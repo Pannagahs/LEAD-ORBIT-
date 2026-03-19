@@ -12,3 +12,6 @@ Manager board for workload balancing, stage movement, and SLA intervention.
 
 4. Dashboard
 Business view for funnel health, source quality, rep performance, and aging risk.
+
+
+HERE HAVE USED FIGMA FOR THE SIMPLE DESIGN TEMPLATE FOR LEAD ORBIT 
