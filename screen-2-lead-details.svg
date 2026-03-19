@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1366" height="768" viewBox="0 0 1366 768">
+  <rect width="1366" height="768" fill="#f4f6f8"/>
+  <rect x="0" y="0" width="230" height="768" fill="#14213d"/>
+  <text x="24" y="44" fill="#ffffff" font-size="24" font-family="Segoe UI">LeadOrbit CRM</text>
+  <text x="24" y="92" fill="#8ea3b7" font-size="16" font-family="Segoe UI">Lead Listing</text>
+  <text x="24" y="124" fill="#cdd7e1" font-size="16" font-family="Segoe UI">Lead Details</text>
+  <text x="24" y="156" fill="#8ea3b7" font-size="16" font-family="Segoe UI">Lead Management</text>
+  <text x="24" y="188" fill="#8ea3b7" font-size="16" font-family="Segoe UI">Dashboard</text>
+
+  <rect x="230" y="0" width="1136" height="72" fill="#ffffff"/>
+  <text x="262" y="44" fill="#0d1b2a" font-size="26" font-family="Segoe UI">Lead Details</text>
+
+  <rect x="254" y="92" width="700" height="250" rx="10" fill="#ffffff"/>
+  <text x="280" y="126" fill="#0d1b2a" font-size="24" font-family="Segoe UI">Pooja Nair</text>
+  <text x="280" y="152" fill="#506070" font-size="14" font-family="Segoe UI">+91 99XXXXXX67 | pooja.nair@email.com</text>
+  <text x="280" y="176" fill="#506070" font-size="14" font-family="Segoe UI">Interested in: Compact SUV | Budget: 14L - 18L</text>
+
+  <rect x="280" y="198" width="120" height="28" rx="14" fill="#d9f7e8"/>
+  <text x="322" y="217" fill="#1f7a53" font-size="13" font-family="Segoe UI">New</text>
+  <rect x="410" y="198" width="140" height="28" rx="14" fill="#eef2f5"/>
+  <text x="430" y="217" fill="#506070" font-size="13" font-family="Segoe UI">Score: 77/100</text>
+  <rect x="560" y="198" width="210" height="28" rx="14" fill="#e9f5ff"/>
+  <text x="578" y="217" fill="#2b6cb0" font-size="13" font-family="Segoe UI">Source: Facebook Lead Ad</text>
+
+  <text x="280" y="254" fill="#4b5d70" font-size="13" font-family="Segoe UI">Suggested Next Best Action</text>
+  <rect x="280" y="266" width="640" height="56" rx="8" fill="#fff7db"/>
+  <text x="300" y="298" fill="#6f5a00" font-size="14" font-family="Segoe UI">Call within 15 mins and offer a weekend test drive slot. Conversion likelihood +12%.</text>
+
+  <rect x="974" y="92" width="368" height="250" rx="10" fill="#ffffff"/>
+  <text x="998" y="126" fill="#0d1b2a" font-size="18" font-family="Segoe UI">Qualification Panel</text>
+  <text x="998" y="160" fill="#506070" font-size="13" font-family="Segoe UI">Need: Family car with good mileage</text>
+  <text x="998" y="184" fill="#506070" font-size="13" font-family="Segoe UI">Timeline: 30-45 days</text>
+  <text x="998" y="208" fill="#506070" font-size="13" font-family="Segoe UI">Finance Required: Yes</text>
+  <text x="998" y="232" fill="#506070" font-size="13" font-family="Segoe UI">Trade-in: No</text>
+  <rect x="998" y="258" width="156" height="32" rx="6" fill="#1b9aaa"/>
+  <text x="1028" y="279" fill="#ffffff" font-size="13" font-family="Segoe UI">Mark Qualified</text>
+  <rect x="1168" y="258" width="156" height="32" rx="6" fill="#f4a261"/>
+  <text x="1208" y="279" fill="#ffffff" font-size="13" font-family="Segoe UI">Escalate</text>
+
+  <rect x="254" y="360" width="1088" height="374" rx="10" fill="#ffffff"/>
+  <text x="280" y="394" fill="#0d1b2a" font-size="18" font-family="Segoe UI">Activity Timeline</text>
+
+  <line x1="290" y1="420" x2="290" y2="700" stroke="#c9d5e0" stroke-width="2"/>
+  <circle cx="290" cy="448" r="7" fill="#1b9aaa"/>
+  <text x="314" y="453" fill="#0d1b2a" font-size="14" font-family="Segoe UI">Lead created from Facebook (10:02 AM)</text>
+  <circle cx="290" cy="500" r="7" fill="#1b9aaa"/>
+  <text x="314" y="505" fill="#0d1b2a" font-size="14" font-family="Segoe UI">Auto-assigned to Neha based on Bengaluru region</text>
+  <circle cx="290" cy="552" r="7" fill="#1b9aaa"/>
+  <text x="314" y="557" fill="#0d1b2a" font-size="14" font-family="Segoe UI">SMS sent: Intro + brochure link</text>
+  <circle cx="290" cy="604" r="7" fill="#1b9aaa"/>
+  <text x="314" y="609" fill="#0d1b2a" font-size="14" font-family="Segoe UI">Reminder created: Call at 3:30 PM</text>
+
+  <rect x="920" y="394" width="390" height="320" rx="8" fill="#f8fafc"/>
+  <text x="944" y="426" fill="#0d1b2a" font-size="16" font-family="Segoe UI">Notes</text>
+  <text x="944" y="454" fill="#506070" font-size="13" font-family="Segoe UI">- Asked for white color variant</text>
+  <text x="944" y="478" fill="#506070" font-size="13" font-family="Segoe UI">- Prefers weekend showroom visit</text>
+  <text x="944" y="502" fill="#506070" font-size="13" font-family="Segoe UI">- Wants EMI estimate before visit</text>
+  <rect x="944" y="660" width="340" height="34" rx="6" fill="#ffffff" stroke="#d8e1ea"/>
+  <text x="960" y="682" fill="#7a8a99" font-size="13" font-family="Segoe UI">Add note and press Enter...</text>
+</svg>

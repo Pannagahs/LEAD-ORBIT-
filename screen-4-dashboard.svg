@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1366" height="768" viewBox="0 0 1366 768">
+  <rect width="1366" height="768" fill="#f4f6f8"/>
+  <rect x="0" y="0" width="230" height="768" fill="#14213d"/>
+  <text x="24" y="44" fill="#ffffff" font-size="24" font-family="Segoe UI">LeadOrbit CRM</text>
+  <text x="24" y="92" fill="#8ea3b7" font-size="16" font-family="Segoe UI">Lead Listing</text>
+  <text x="24" y="124" fill="#8ea3b7" font-size="16" font-family="Segoe UI">Lead Details</text>
+  <text x="24" y="156" fill="#8ea3b7" font-size="16" font-family="Segoe UI">Lead Management</text>
+  <text x="24" y="188" fill="#cdd7e1" font-size="16" font-family="Segoe UI">Dashboard</text>
+
+  <rect x="230" y="0" width="1136" height="72" fill="#ffffff"/>
+  <text x="262" y="44" fill="#0d1b2a" font-size="26" font-family="Segoe UI">Business Dashboard</text>
+
+  <rect x="254" y="92" width="248" height="92" rx="10" fill="#ffffff"/>
+  <text x="274" y="124" fill="#506070" font-size="13" font-family="Segoe UI">Total Leads (MTD)</text>
+  <text x="274" y="160" fill="#0d1b2a" font-size="32" font-family="Segoe UI">3,482</text>
+
+  <rect x="524" y="92" width="248" height="92" rx="10" fill="#ffffff"/>
+  <text x="544" y="124" fill="#506070" font-size="13" font-family="Segoe UI">Contact < 1 Hr</text>
+  <text x="544" y="160" fill="#2a9d8f" font-size="32" font-family="Segoe UI">74%</text>
+
+  <rect x="794" y="92" width="248" height="92" rx="10" fill="#ffffff"/>
+  <text x="814" y="124" fill="#506070" font-size="13" font-family="Segoe UI">Qualification Rate</text>
+  <text x="814" y="160" fill="#0d1b2a" font-size="32" font-family="Segoe UI">31%</text>
+
+  <rect x="1064" y="92" width="278" height="92" rx="10" fill="#ffffff"/>
+  <text x="1084" y="124" fill="#506070" font-size="13" font-family="Segoe UI">Win Rate</text>
+  <text x="1084" y="160" fill="#1f7a53" font-size="32" font-family="Segoe UI">12.6%</text>
+
+  <rect x="254" y="204" width="544" height="250" rx="10" fill="#ffffff"/>
+  <text x="276" y="236" fill="#0d1b2a" font-size="17" font-family="Segoe UI">Lead Funnel</text>
+  <polygon points="300,260 750,260 690,300 360,300" fill="#dbeafe"/>
+  <polygon points="340,310 710,310 650,350 400,350" fill="#bfdbfe"/>
+  <polygon points="380,360 670,360 620,400 430,400" fill="#93c5fd"/>
+  <polygon points="430,410 620,410 580,440 470,440" fill="#60a5fa"/>
+  <text x="316" y="286" fill="#1e3a8a" font-size="12" font-family="Segoe UI">New: 3,482</text>
+  <text x="356" y="336" fill="#1e3a8a" font-size="12" font-family="Segoe UI">Contacted: 2,612</text>
+  <text x="398" y="386" fill="#1e3a8a" font-size="12" font-family="Segoe UI">Qualified: 1,080</text>
+  <text x="446" y="432" fill="#1e3a8a" font-size="12" font-family="Segoe UI">Won: 438</text>
+
+  <rect x="818" y="204" width="524" height="250" rx="10" fill="#ffffff"/>
+  <text x="840" y="236" fill="#0d1b2a" font-size="17" font-family="Segoe UI">Leads by Source</text>
+  <rect x="860" y="270" width="220" height="18" rx="4" fill="#1b9aaa"/>
+  <text x="1094" y="284" fill="#0d1b2a" font-size="12" font-family="Segoe UI">Google Ads 34%</text>
+  <rect x="860" y="305" width="180" height="18" rx="4" fill="#2a9d8f"/>
+  <text x="1054" y="319" fill="#0d1b2a" font-size="12" font-family="Segoe UI">Facebook 26%</text>
+  <rect x="860" y="340" width="140" height="18" rx="4" fill="#f4a261"/>
+  <text x="1014" y="354" fill="#0d1b2a" font-size="12" font-family="Segoe UI">Website 19%</text>
+  <rect x="860" y="375" width="120" height="18" rx="4" fill="#e76f51"/>
+  <text x="994" y="389" fill="#0d1b2a" font-size="12" font-family="Segoe UI">Events 14%</text>
+  <rect x="860" y="410" width="80" height="18" rx="4" fill="#8d99ae"/>
+  <text x="954" y="424" fill="#0d1b2a" font-size="12" font-family="Segoe UI">Other 7%</text>
+
+  <rect x="254" y="474" width="544" height="260" rx="10" fill="#ffffff"/>
+  <text x="276" y="506" fill="#0d1b2a" font-size="17" font-family="Segoe UI">Sales Rep Performance</text>
+  <text x="276" y="538" fill="#506070" font-size="13" font-family="Segoe UI">Neha - Contact SLA 81% | Win 14.1%</text>
+  <text x="276" y="564" fill="#506070" font-size="13" font-family="Segoe UI">Amit - Contact SLA 72% | Win 12.0%</text>
+  <text x="276" y="590" fill="#506070" font-size="13" font-family="Segoe UI">Ravi - Contact SLA 65% | Win 9.8%</text>
+  <text x="276" y="616" fill="#506070" font-size="13" font-family="Segoe UI">Sara - Contact SLA 79% | Win 13.2%</text>
+  <rect x="276" y="650" width="480" height="56" rx="8" fill="#fff7db"/>
+  <text x="294" y="676" fill="#6f5a00" font-size="13" font-family="Segoe UI">Insight: Facebook leads convert better when first contact is less than 30 mins.</text>
+  <text x="294" y="696" fill="#6f5a00" font-size="13" font-family="Segoe UI">Action: Increase Facebook lead priority in auto-assignment rules.</text>
+
+  <rect x="818" y="474" width="524" height="260" rx="10" fill="#ffffff"/>
+  <text x="840" y="506" fill="#0d1b2a" font-size="17" font-family="Segoe UI">Aging and SLA Risk</text>
+  <rect x="840" y="530" width="480" height="170" rx="8" fill="#f8fafc"/>
+  <text x="860" y="558" fill="#506070" font-size="13" font-family="Segoe UI">0-1 hour: 142 leads</text>
+  <text x="860" y="584" fill="#506070" font-size="13" font-family="Segoe UI">1-4 hours: 78 leads</text>
+  <text x="860" y="610" fill="#b42318" font-size="13" font-family="Segoe UI">4-24 hours: 36 leads (needs action)</text>
+  <text x="860" y="636" fill="#b42318" font-size="13" font-family="Segoe UI">24+ hours: 11 leads (critical)</text>
+  <rect x="860" y="664" width="250" height="28" rx="6" fill="#d62828"/>
+  <text x="900" y="683" fill="#ffffff" font-size="12" font-family="Segoe UI">Trigger Escalation Workflow</text>
+</svg>

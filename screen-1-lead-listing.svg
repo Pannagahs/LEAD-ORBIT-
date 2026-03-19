@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1366" height="768" viewBox="0 0 1366 768">
+  <rect width="1366" height="768" fill="#f4f6f8"/>
+  <rect x="0" y="0" width="230" height="768" fill="#14213d"/>
+  <text x="24" y="44" fill="#ffffff" font-size="24" font-family="Segoe UI">LeadOrbit CRM</text>
+  <text x="24" y="92" fill="#cdd7e1" font-size="16" font-family="Segoe UI">Lead Listing</text>
+  <text x="24" y="124" fill="#8ea3b7" font-size="16" font-family="Segoe UI">Lead Details</text>
+  <text x="24" y="156" fill="#8ea3b7" font-size="16" font-family="Segoe UI">Lead Management</text>
+  <text x="24" y="188" fill="#8ea3b7" font-size="16" font-family="Segoe UI">Dashboard</text>
+
+  <rect x="230" y="0" width="1136" height="72" fill="#ffffff"/>
+  <text x="262" y="44" fill="#0d1b2a" font-size="26" font-family="Segoe UI">Lead Listing</text>
+  <rect x="1050" y="18" width="286" height="36" rx="6" fill="#eef2f5"/>
+  <text x="1068" y="41" fill="#4b5d70" font-size="15" font-family="Segoe UI">Search lead, phone, owner...</text>
+
+  <rect x="254" y="92" width="1088" height="84" rx="10" fill="#ffffff"/>
+  <text x="276" y="123" fill="#0d1b2a" font-size="14" font-family="Segoe UI">Channel</text>
+  <rect x="276" y="132" width="150" height="30" rx="6" fill="#f4f6f8"/>
+  <text x="290" y="152" fill="#506070" font-size="13" font-family="Segoe UI">All Sources</text>
+  <text x="446" y="123" fill="#0d1b2a" font-size="14" font-family="Segoe UI">Status</text>
+  <rect x="446" y="132" width="150" height="30" rx="6" fill="#f4f6f8"/>
+  <text x="460" y="152" fill="#506070" font-size="13" font-family="Segoe UI">Open Leads</text>
+  <text x="616" y="123" fill="#0d1b2a" font-size="14" font-family="Segoe UI">Owner</text>
+  <rect x="616" y="132" width="150" height="30" rx="6" fill="#f4f6f8"/>
+  <text x="630" y="152" fill="#506070" font-size="13" font-family="Segoe UI">All Reps</text>
+  <rect x="1180" y="124" width="140" height="38" rx="8" fill="#1b9aaa"/>
+  <text x="1210" y="148" fill="#ffffff" font-size="14" font-family="Segoe UI">+ New Lead</text>
+
+  <rect x="254" y="192" width="1088" height="96" rx="10" fill="#ffffff"/>
+  <text x="280" y="226" fill="#4b5d70" font-size="13" font-family="Segoe UI">Today</text>
+  <text x="280" y="258" fill="#0d1b2a" font-size="28" font-family="Segoe UI">146 Leads</text>
+  <text x="500" y="226" fill="#4b5d70" font-size="13" font-family="Segoe UI">SLA At Risk</text>
+  <text x="500" y="258" fill="#d62828" font-size="28" font-family="Segoe UI">23</text>
+  <text x="680" y="226" fill="#4b5d70" font-size="13" font-family="Segoe UI">Qualified</text>
+  <text x="680" y="258" fill="#2a9d8f" font-size="28" font-family="Segoe UI">41</text>
+  <text x="860" y="226" fill="#4b5d70" font-size="13" font-family="Segoe UI">Avg Score</text>
+  <text x="860" y="258" fill="#264653" font-size="28" font-family="Segoe UI">72/100</text>
+  <text x="1060" y="226" fill="#4b5d70" font-size="13" font-family="Segoe UI">Auto Assigned</text>
+  <text x="1060" y="258" fill="#1b9aaa" font-size="28" font-family="Segoe UI">88%</text>
+
+  <rect x="254" y="304" width="1088" height="430" rx="10" fill="#ffffff"/>
+  <rect x="254" y="304" width="1088" height="42" fill="#eef2f5"/>
+  <text x="270" y="331" fill="#506070" font-size="13" font-family="Segoe UI">Lead</text>
+  <text x="470" y="331" fill="#506070" font-size="13" font-family="Segoe UI">Source</text>
+  <text x="590" y="331" fill="#506070" font-size="13" font-family="Segoe UI">Score</text>
+  <text x="680" y="331" fill="#506070" font-size="13" font-family="Segoe UI">Status</text>
+  <text x="830" y="331" fill="#506070" font-size="13" font-family="Segoe UI">Owner</text>
+  <text x="980" y="331" fill="#506070" font-size="13" font-family="Segoe UI">Last Activity</text>
+  <text x="1170" y="331" fill="#506070" font-size="13" font-family="Segoe UI">Action</text>
+
+  <line x1="254" y1="380" x2="1342" y2="380" stroke="#eef2f5"/>
+  <line x1="254" y1="426" x2="1342" y2="426" stroke="#eef2f5"/>
+  <line x1="254" y1="472" x2="1342" y2="472" stroke="#eef2f5"/>
+  <line x1="254" y1="518" x2="1342" y2="518" stroke="#eef2f5"/>
+  <line x1="254" y1="564" x2="1342" y2="564" stroke="#eef2f5"/>
+
+  <text x="270" y="366" fill="#0d1b2a" font-size="14" font-family="Segoe UI">Rahul Sharma | +91 98XXXXXX10</text>
+  <text x="470" y="366" fill="#0d1b2a" font-size="14" font-family="Segoe UI">Google Ads</text>
+  <text x="590" y="366" fill="#2a9d8f" font-size="14" font-family="Segoe UI">84</text>
+  <rect x="670" y="350" width="120" height="24" rx="12" fill="#fff2cc"/>
+  <text x="700" y="366" fill="#8a6d1d" font-size="13" font-family="Segoe UI">Contacted</text>
+  <text x="830" y="366" fill="#0d1b2a" font-size="14" font-family="Segoe UI">Amit</text>
+  <text x="980" y="366" fill="#0d1b2a" font-size="14" font-family="Segoe UI">18 mins ago</text>
+  <rect x="1160" y="349" width="150" height="26" rx="6" fill="#1b9aaa"/>
+  <text x="1186" y="366" fill="#ffffff" font-size="13" font-family="Segoe UI">Schedule Call</text>
+
+  <text x="270" y="412" fill="#0d1b2a" font-size="14" font-family="Segoe UI">Pooja Nair | +91 99XXXXXX67</text>
+  <text x="470" y="412" fill="#0d1b2a" font-size="14" font-family="Segoe UI">Facebook</text>
+  <text x="590" y="412" fill="#2a9d8f" font-size="14" font-family="Segoe UI">77</text>
+  <rect x="670" y="396" width="120" height="24" rx="12" fill="#d9f7e8"/>
+  <text x="706" y="412" fill="#1f7a53" font-size="13" font-family="Segoe UI">New</text>
+  <text x="830" y="412" fill="#0d1b2a" font-size="14" font-family="Segoe UI">Neha</text>
+  <text x="980" y="412" fill="#0d1b2a" font-size="14" font-family="Segoe UI">2 mins ago</text>
+  <rect x="1160" y="395" width="150" height="26" rx="6" fill="#1b9aaa"/>
+  <text x="1200" y="412" fill="#ffffff" font-size="13" font-family="Segoe UI">Call Now</text>
+
+  <text x="270" y="458" fill="#0d1b2a" font-size="14" font-family="Segoe UI">Arjun Rao | +91 97XXXXXX35</text>
+  <text x="470" y="458" fill="#0d1b2a" font-size="14" font-family="Segoe UI">Website</text>
+  <text x="590" y="458" fill="#d62828" font-size="14" font-family="Segoe UI">49</text>
+  <rect x="670" y="442" width="120" height="24" rx="12" fill="#fde2e2"/>
+  <text x="695" y="458" fill="#b42318" font-size="13" font-family="Segoe UI">SLA Risk</text>
+  <text x="830" y="458" fill="#0d1b2a" font-size="14" font-family="Segoe UI">Unassigned</text>
+  <text x="980" y="458" fill="#0d1b2a" font-size="14" font-family="Segoe UI">4 hrs ago</text>
+  <rect x="1160" y="441" width="150" height="26" rx="6" fill="#f4a261"/>
+  <text x="1205" y="458" fill="#ffffff" font-size="13" font-family="Segoe UI">Assign</text>
+
+  <text x="270" y="708" fill="#7a8a99" font-size="12" font-family="Segoe UI">Automation strip: 12 duplicate leads merged today | 31 follow-up reminders sent | 7 reassigned based on workload</text>
+</svg>
